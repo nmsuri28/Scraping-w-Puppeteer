@@ -12,7 +12,7 @@ npm install fs-extra
 
 npm i puppeteer
 
-# Usuage
+# Usage
 Please read the documentation for usage
 
 https://github.com/jprichardson/node-fs-extra
