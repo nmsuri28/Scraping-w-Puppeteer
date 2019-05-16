@@ -1,7 +1,8 @@
 # Scraping-w-Puppeteer
+Just some scraping with Puppeteer. 
+Click on thumbnail to watch scrape
 [![Watch the video](documentation/screenshot.JPG)](https://youtu.be/CCla2oDZ9XE)
 
-Just some scraping with Puppeteer. 
 
 # Why? 
 
