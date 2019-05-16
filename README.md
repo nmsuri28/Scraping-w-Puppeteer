@@ -1,5 +1,5 @@
 # Scraping-w-Puppeteer
-[! Watch the video](https://youtu.be/CCla2oDZ9XE)
+[!Watch the video](https://youtu.be/CCla2oDZ9XE)
 
 Just some scraping with Puppeteer. 
 
