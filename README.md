@@ -10,9 +10,9 @@ Scraping is a great tool for data collection and input consolidation.
 
 # Installation 
 
-npm install fs-extra
+> npm install fs-extra
 
-npm i puppeteer
+> npm i puppeteer
 
 # Usage
 Please read the documentation for usage
