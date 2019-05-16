@@ -3,17 +3,17 @@
 
 Just some scraping with Puppeteer. 
 
-#Why?
+# Why? 
 
 Scraping is a great tool for data collection and input consolidation.
 
-#Installation
+# Installation 
 
 npm install fs-extra
 
 npm i puppeteer
 
-#Usuage
+# Usage
 Please read the documentation for usage
 
 https://github.com/jprichardson/node-fs-extra
@@ -21,7 +21,7 @@ https://github.com/jprichardson/node-fs-extra
 https://www.npmjs.com/package/puppeteer
 
 
-#Credit
+# Credit
 
 Followed along with these tutorials
 
